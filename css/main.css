@@ -7,11 +7,23 @@
     font-size: 30px;
   }
   p{
-    font-size: 20px;
+    font-size: 16px;
     font-family:Helvetica, sans-serif;
   }
 
+}
 
+
+p{
+  font-size: 20px;
+}
+
+aside{
+  font-size: 20px;
+  text-align: center;
+  width: 50%;
+  
+}
 
 #stortittel{
 color: rgb(255, 255, 255);
@@ -107,4 +119,5 @@ ul {
 
  
 
+ 
  
